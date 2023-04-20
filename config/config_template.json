@@ -1,0 +1,13 @@
+{
+    "customer1": {
+        "email": "",
+        "last_name": "",
+        "first_name": "",
+        "address": "",
+        "county": "",
+        "city": "",
+        "zip_code": "",
+        "phone_number": "",
+        "coupon": ""
+    }
+}

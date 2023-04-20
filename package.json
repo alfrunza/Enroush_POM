@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "chromedriver": "^104.0.0",
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1"
+  },
+  "name": "enroush_pom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
